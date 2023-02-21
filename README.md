@@ -4,14 +4,20 @@ This project  implements a spam mail detection system using the decision tree cl
 
 ### Requirements
 Python 3.x
+
 numpy
+
 pandas
+
 scikit-learn
 
 ### Usage
 Clone the repository to your local machine
+
 Install the required libraries using pip install -r requirements.txt
+
 Run python spam_mail_detection.py
+
 Enter a mail message when prompted and the system will predict whether it is spam or ham.
 
 ### Dataset
